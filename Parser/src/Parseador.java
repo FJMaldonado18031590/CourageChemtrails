@@ -42,7 +42,7 @@ public class Parseador
 
         String operador = obtenerOperador(ecuacion);
 
-        String[] partes1 = partesEcuacion[0].split("\\" + operador);
+        String[] partes1 = partesEcuacion[0].split("/" + operador);
 
         return partes1;
     }
