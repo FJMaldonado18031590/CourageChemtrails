@@ -6,18 +6,21 @@ import org.junit.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
+import org.mockito.Spy;
 
 public class EcuacionPrimerGradoMockitoTest {
 
+
+    @Spy
     @InjectMocks
     private EcuacionPrimerGrado ecuacionPrimerGrado;
 
     @Mock
-    private Parseador parseador;
+    private Parseador parseador=new Parseador();
 
     @Before
     public void inicializaMocks() {
-        MockitoAnnotations.initMocks(this);
+        //MockitoAnnotations.initMocks(this);
     }
 
     @Test
@@ -37,12 +40,12 @@ public class EcuacionPrimerGradoMockitoTest {
 
     @Test
     public void solucionaEcuacionConMas() {
-
         String ecuacion = "2x + 1 = 0";
 
-        when(parseador.obtenerParte1(ecuacion)).thenReturn(2);
-        when(parseador.obtenerParte2(ecuacion)).thenReturn(1);
-        when(parseador.obtenerParte3(ecuacion)).thenReturn(0);
+        //when(parseador.obtenerParte1(ecuacion)).thenReturn(2);
+        System.out.println(when(parseador.obtenerParte1(ecuacion)).thenReturn(2));
+        //when(parseador.obtenerParte2(ecuacion)).thenReturn(1);
+        //when(parseador.obtenerParte3(ecuacion)).thenReturn(0);
 
         Double result = ecuacionPrimerGrado.obtenerResultado(ecuacion);
 
