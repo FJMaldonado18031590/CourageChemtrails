@@ -3,14 +3,12 @@ import static org.mockito.Mockito.when;
 
 import org.junit.Before;
 import org.junit.Test;
-import static org.junit.jupiter.api.Assertions.*;
-
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 
-public class EcuacionPrimerGradoMockitoTest
-{
+public class EcuacionPrimerGradoMockitoTest {
+
     @InjectMocks
     private EcuacionPrimerGrado ecuacionPrimerGrado;
 
