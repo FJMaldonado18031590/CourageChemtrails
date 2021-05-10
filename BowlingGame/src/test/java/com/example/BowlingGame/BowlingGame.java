@@ -1,8 +1,12 @@
 package com.example.BowlingGame;
 
 public class BowlingGame {
-    public static void main(String[] args)
-    {
-        System.out.println("Holi :3");
+
+    public void roll(int i) {
+
+    }
+
+    public int score() {
+        return 0;
     }
 }
