@@ -3,8 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="" />
+    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,8 +50,66 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser\src\main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser\src\test\java" />
+      <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser\src\main\java" />
+      <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EcuacionPrimerGradoMockitoTest">
+    <configuration name="EcuacionPrimerGradoIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practicaTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EcuacionPrimerGradoIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcuacionPrimerGradoMockitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practicaTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EcuacionPrimerGradoMockitoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practicaTesting" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="15" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParseadorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
+      <item itemvalue="JUnit.ParseadorTest" />
+      <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
+        <item itemvalue="JUnit.ParseadorTest" />
+        <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="" />
@@ -51,5 +130,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="120" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620703087946">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state x="174" y="120" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1440.870@0.30.1440.870" timestamp="1620703087946" />
+    <state width="1397" height="226" key="GridCell.Tab.0.bottom" timestamp="1620703378607">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1620703378607" />
+    <state width="1397" height="226" key="GridCell.Tab.0.center" timestamp="1620703378607">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1620703378607" />
+    <state width="1397" height="226" key="GridCell.Tab.0.left" timestamp="1620703378606">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1620703378606" />
+    <state width="1397" height="226" key="GridCell.Tab.0.right" timestamp="1620703378607">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="226" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1620703378607" />
+    <state x="221" y="110" key="SettingsEditor" timestamp="1620703149899">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state x="221" y="110" key="SettingsEditor/0.30.1440.870@0.30.1440.870" timestamp="1620703149899" />
   </component>
 </project>
