@@ -30,11 +30,29 @@ public class BowlingGameTest {
 
     @Test
     public void testOneSpare(){
-        bowlingGame.roll(5);
-        bowlingGame.roll(5);
+        rollSpare();
         bowlingGame.roll(3);
         rollMany(17,0);
         assertEquals(16,bowlingGame.score());
+    }
+
+    @Test
+    public void testOneStrike() {
+        rollStrike();
+        bowlingGame.roll(3);
+        bowlingGame.roll(4);
+        rollMany(16,0);
+        assertEquals(24,bowlingGame.score());
+    }
+
+    @Test
+    public void testPerfectGame() {
+        rollMany(12,10);
+        assertEquals(300, bowlingGame.score());
+    }
+
+    private void rollStrike() {
+        bowlingGame.roll(10);
     }
 
     private void rollMany(int n, int pins){
@@ -43,4 +61,8 @@ public class BowlingGameTest {
         }
     }
 
+    private void rollSpare() {
+        bowlingGame.roll(5);
+        bowlingGame.roll(5);
+    }
 }
