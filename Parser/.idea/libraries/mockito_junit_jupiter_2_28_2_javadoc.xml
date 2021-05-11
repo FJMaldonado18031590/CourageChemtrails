@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mockito-junit-jupiter-2.28.2-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/Libs/mockito-junit-jupiter-2.28.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

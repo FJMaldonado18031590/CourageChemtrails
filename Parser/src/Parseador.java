@@ -1,6 +1,6 @@
 public class Parseador
 {
-    public int obtenerParte1(final String ecuacion) {
+    public  int obtenerParte1(final String ecuacion) {
 
         String[] partes1 = obtenerPartes12(ecuacion);
 
