@@ -12,36 +12,6 @@ public class PasswordUtillTest
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     //123aa!
     @Test
     public void weak_when_has_only_letters()

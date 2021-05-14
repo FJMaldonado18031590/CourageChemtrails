@@ -29,7 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +70,24 @@
       <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EcuacionPrimerGradoMockitoTest">
+  <component name="RunManager" selected="JUnit.EcuacionPrimerGradoMockitoTest and 2 more">
     <configuration name="EcuacionPrimerGradoIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practicaTesting" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="EcuacionPrimerGradoIntegrationTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcuacionPrimerGradoMockitoTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practicaTesting" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="EcuacionPrimerGradoMockitoTest" />
+        <pattern testClass="EcuacionPrimerGradoIntegrationTest" />
+        <pattern testClass="ParseadorTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,9 +119,11 @@
       <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
       <item itemvalue="JUnit.ParseadorTest" />
       <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
+      <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest and 2 more" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest and 2 more" />
         <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
         <item itemvalue="JUnit.ParseadorTest" />
         <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
@@ -147,6 +163,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="174" y="120" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620703087946">
