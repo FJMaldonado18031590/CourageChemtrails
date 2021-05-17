@@ -9,8 +9,5 @@
         <module name="practicaTesting" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="parser" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

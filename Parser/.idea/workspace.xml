@@ -54,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -213,9 +213,13 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state width="1397" height="280" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
-    <state x="221" y="110" key="SettingsEditor" timestamp="1620703149899">
+    <state x="221" y="110" key="SettingsEditor" timestamp="1621289465104">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state x="221" y="110" key="SettingsEditor/0.30.1440.870@0.30.1440.870" timestamp="1620703149899" />
+    <state x="221" y="110" key="SettingsEditor/0.30.1440.870@0.30.1440.870" timestamp="1621289465104" />
+    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621289227223">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1440.870@0.30.1440.870" timestamp="1621289227223" />
   </component>
 </project>
