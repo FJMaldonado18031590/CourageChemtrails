@@ -28,13 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BowlingGame/src/test/java/com/example/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BowlingGame/src/test/java/com/example/BowlingGameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Parseador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parseador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ParseadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParseadorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,6 +171,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="174" y="120" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620703087946">
