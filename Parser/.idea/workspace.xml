@@ -30,8 +30,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BowlingGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BowlingGame/src/test/java/com/example/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BowlingGame/src/test/java/com/example/BowlingGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Parseador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Parseador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ParseadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ParseadorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,12 +72,15 @@
       <recent name="C:\Users\Clipo\Drive\(0) ITSimCity\Materias\Ingenieria de Software\Proyectos\CourageChemtrails\Parser" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EcuacionPrimerGradoMockitoTest and 2 more">
-    <configuration name="EcuacionPrimerGradoIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ParseadorTest.obtenerParte1SoloXPos">
+    <configuration name="EcuacionPrimerGradoIntegrationTest and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practicaTesting" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EcuacionPrimerGradoIntegrationTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="EcuacionPrimerGradoIntegrationTest" />
+        <pattern testClass="EcuacionPrimerGradoMockitoTest" />
+        <pattern testClass="ParseadorTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,32 +106,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParseadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ParseadorTest.obtenerParte1SoloXPos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="practicaTesting" />
-      <useClassPathOnly />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ParseadorTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="PARAMETERS" value="" />
+      <option name="METHOD_NAME" value="obtenerParte1SoloXPos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseadorTest.obtenerParte1Unidades" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practicaTesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParseadorTest" />
+      <option name="METHOD_NAME" value="obtenerParte1Unidades" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
-      <item itemvalue="JUnit.ParseadorTest" />
       <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
       <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest and 2 more" />
+      <item itemvalue="JUnit.ParseadorTest.obtenerParte1Unidades" />
+      <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest and 2 more" />
+      <item itemvalue="JUnit.ParseadorTest.obtenerParte1SoloXPos" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ParseadorTest.obtenerParte1SoloXPos" />
+        <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest and 2 more" />
+        <item itemvalue="JUnit.ParseadorTest.obtenerParte1Unidades" />
         <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest and 2 more" />
         <item itemvalue="JUnit.EcuacionPrimerGradoMockitoTest" />
-        <item itemvalue="JUnit.ParseadorTest" />
-        <item itemvalue="JUnit.EcuacionPrimerGradoIntegrationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +183,38 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state x="174" y="120" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1440.870@0.30.1440.870" timestamp="1620703087946" />
-    <state width="1397" height="226" key="GridCell.Tab.0.bottom" timestamp="1620705571234">
+    <state width="1397" height="280" key="GridCell.Tab.0.bottom" timestamp="1621037314654">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1397" height="226" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1620705571234" />
-    <state width="1397" height="226" key="GridCell.Tab.0.center" timestamp="1620705571233">
+    <state width="1397" height="280" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.0.center" timestamp="1621037314654">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1397" height="226" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1620705571233" />
-    <state width="1397" height="226" key="GridCell.Tab.0.left" timestamp="1620705571233">
+    <state width="1397" height="280" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.0.left" timestamp="1621037314654">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1397" height="226" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1620705571233" />
-    <state width="1397" height="226" key="GridCell.Tab.0.right" timestamp="1620705571234">
+    <state width="1397" height="280" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.0.right" timestamp="1621037314654">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1397" height="226" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1620705571234" />
+    <state width="1397" height="280" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.1.bottom" timestamp="1621037314654">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.bottom/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.1.center" timestamp="1621037314654">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.center/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.1.left" timestamp="1621037314654">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.left/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
+    <state width="1397" height="280" key="GridCell.Tab.1.right" timestamp="1621037314654">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state width="1397" height="280" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
     <state x="221" y="110" key="SettingsEditor" timestamp="1620703149899">
       <screen x="0" y="30" width="1440" height="870" />
     </state>

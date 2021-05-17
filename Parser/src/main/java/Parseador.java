@@ -5,8 +5,20 @@ public class Parseador {
 		String[] partes1 = obtenerPartes12(ecuacion);
 
 		String parte1 = partes1[0].trim();
-
-		return Integer.valueOf(parte1.substring(0, parte1.length() - 1));
+		if(parte1!="")
+			if(parte1.equals("x"))
+				return 1;
+			else
+				return Integer.valueOf(parte1.substring(0,parte1.length() - 1));
+		else
+		{
+			parte1 = partes1[1].trim();
+			if(parte1.equals("x"))
+				return -1;
+			else
+				return -Integer.valueOf(parte1.substring(0,parte1.length() - 1));
+		}
+		//return Integer.valueOf(parte1.substring(0, parte1.length() - 1));
 	}
 
 	public int obtenerParte2(final String ecuacion) {

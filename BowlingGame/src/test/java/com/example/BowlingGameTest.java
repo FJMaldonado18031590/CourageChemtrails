@@ -24,7 +24,7 @@ public class BowlingGameTest {
 
     @Test
     public void testAllOnes()  {
-        rollMany(20,1);
+        rollMany(20,5);
         assertEquals(20,bowlingGame.score());
     }
 

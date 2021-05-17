@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bd985101-76e1-4a1e-812a-42b35cad90dd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/BowlingGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/BowlingGameTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Parser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Passwords/src/test/java/PasswordUtillTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parser/src/main/java/Parseador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/src/main/java/Parseador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Parser/src/test/java/ParseadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Parser/src/test/java/ParseadorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.BowlingGameTest">
+  <component name="RunManager" selected="JUnit.BowlingGameTest.testAllOnes">
     <configuration name="BowlingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.BowlingGame.BowlingGame" />
       <module name="BowlingGame" />
@@ -62,8 +64,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BowlingGameTest.testAllOnes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BowlingGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.BowlingGameTest" />
+      <option name="METHOD_NAME" value="testAllOnes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BowlingGameTest.testAllOnes" />
         <item itemvalue="JUnit.BowlingGameTest" />
         <item itemvalue="Application.BowlingGame" />
       </list>
@@ -81,21 +100,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1441" height="233" key="GridCell.Tab.0.bottom" timestamp="1620433609061">
+    <state width="1397" height="225" key="GridCell.Tab.0.bottom" timestamp="1621037312858">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1441" height="233" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1620433609061" />
-    <state width="1441" height="233" key="GridCell.Tab.0.center" timestamp="1620433609061">
+    <state width="1397" height="225" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1621037312858" />
+    <state width="1397" height="225" key="GridCell.Tab.0.center" timestamp="1621037312857">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1441" height="233" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1620433609061" />
-    <state width="1441" height="233" key="GridCell.Tab.0.left" timestamp="1620433609061">
+    <state width="1397" height="225" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1621037312857" />
+    <state width="1397" height="225" key="GridCell.Tab.0.left" timestamp="1621037312857">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1441" height="233" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1620433609061" />
-    <state width="1441" height="233" key="GridCell.Tab.0.right" timestamp="1620433609061">
+    <state width="1397" height="225" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1621037312857" />
+    <state width="1397" height="225" key="GridCell.Tab.0.right" timestamp="1621037312857">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="1441" height="233" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1620433609061" />
+    <state width="1397" height="225" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1621037312857" />
   </component>
 </project>
