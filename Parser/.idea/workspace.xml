@@ -28,7 +28,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="" />
+    <list default="true" id="bf2b54b5-7cd1-47bf-a332-b23e7563be33" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1620702597606</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1621289488564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621289488564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,13 +223,17 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state width="1397" height="280" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1621037314654" />
-    <state x="221" y="110" key="SettingsEditor" timestamp="1621289465104">
+    <state x="221" y="110" key="SettingsEditor" timestamp="1621468945201">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state x="221" y="110" key="SettingsEditor/0.30.1440.870@0.30.1440.870" timestamp="1621289465104" />
-    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621289227223">
+    <state x="221" y="110" key="SettingsEditor/0.30.1440.870@0.30.1440.870" timestamp="1621468945201" />
+    <state x="312" y="198" key="Vcs.Push.Dialog.v2" timestamp="1621289494475">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1440.870@0.30.1440.870" timestamp="1621289227223" />
+    <state x="312" y="198" key="Vcs.Push.Dialog.v2/0.30.1440.870@0.30.1440.870" timestamp="1621289494475" />
+    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621289469314">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state x="537" y="379" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1440.870@0.30.1440.870" timestamp="1621289469314" />
   </component>
 </project>
