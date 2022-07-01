@@ -1,5 +1,6 @@
-# CourageChemtrails
-Proyectos de ingeniería de Software
+# Proyectos desarrollados por el equipo Courage Chemtrails
+
+ingeniería de Software
 
 Bowling Game es un programa que te permite llevar la puntuación de los jugadores de boliche, tomando en cuenta las reglas del juego.
 Parser es un programa de solución de ecuaciones de primer grado, utilizando pruebas anidadas con mockito
